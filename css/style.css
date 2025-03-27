@@ -138,5 +138,9 @@ audio::-webkit-media-controls-panel{
 
 audio::-webkit-media-controls-panel:hover{
     background-color:goldenrod !important;
+}
 
+a{
+    color: inherit;
+    text-decoration: underline #f15139;;
 }
